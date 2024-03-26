@@ -1,0 +1,80 @@
+.testTag {
+    display: flex;
+    color: rgb(0, 0, 0);
+    border: 3px solid black;
+    background-color: rgb(246, 185, 93);
+    flex-direction: row;
+    gap: 200px
+}
+
+body {
+    background-color: blanchedalmond;
+
+}
+
+.restimg {
+    width: 300px;
+
+
+
+}
+
+.tomatendiv {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+
+}
+
+.chickendiv {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+
+}
+
+.gründiv {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+
+}
+
+.gemischerdiv {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+
+}
+
+.Pommesdiv {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+
+}
+
+.Schnitzeldiv {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+
+}
+
+.Glacediv {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+
+}
+
+.Schokoladediv {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+
+}
+
+.preis {
+    list-style-type: none;
+}
